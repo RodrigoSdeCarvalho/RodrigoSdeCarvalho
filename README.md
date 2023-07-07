@@ -35,6 +35,7 @@ private:
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
@@ -48,9 +49,10 @@ private:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoSdeCarvalho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-  ## My Projects
+  ## Highlighted Projects
   - [pyEasyML](https://github.com/RodrigoSdeCarvalho/pyEasyML) - Python Machine Learning framework that makes developing ML applications easy;
   - [BrickShooters](https://github.com/RodrigoSdeCarvalho/BrickShooters) - A classic spaceship shooter game implemented in C++ with the Concurrency lib I developed with two friends at uni;
+  - [ExtendClass](https://github.com/RodrigoSdeCarvalho/ExtendClass) - Python lib for class extension, useful for modifying a class without inheritance;
  
 <br>
   
