@@ -1,16 +1,58 @@
 ### Hi there 👋
 
-<!--
-**RodrigoSdeCarvalho/RodrigoSdeCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love Computer Science and AI. I'm currently an AI engineer at SRS. 
 
-Here are some ideas to get you started:
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="550" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```cpp
+class Rodrigo {
+private:
+    std::string name = "Rodrigo Santos de Carvalho";
+    std::string background = "Computer Science";
+    std::vector<std::string> primarySkillset = {
+      "Artificial Intelligence", "Machine Learning",
+      "Software Development", "Restful APIs"
+    };
+    std::vector<std::string> mainLanguages = {
+      "Rust", "C++",
+      "C", "C#",
+      "Python", "Java"
+  };
+};
+```
+
+## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/RodrigoSdeCarvalho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSdeCarvalho&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/RodrigoSdeCarvalho">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoSdeCarvalho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://rodrigosdecarvalho.github.io/Website.github.io/
+[linkedin]: https://www.linkedin.com/in/rodrigo-santos-de-carvalho/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
