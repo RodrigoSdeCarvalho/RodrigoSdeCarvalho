@@ -48,6 +48,15 @@ private:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoSdeCarvalho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
+  ## My Projects
+  - [pyEasyML](https://github.com/RodrigoSdeCarvalho/pyEasyML) - Python Machine Learning framework that makes developing ML applications easy;
+  - [BrickShooters](https://github.com/RodrigoSdeCarvalho/BrickShooters) - A classic spaceship shooter game implemented in C++ with the Concurrency lib I developed with two friends at uni;
+ 
+<br>
+  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=pyEasyML&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/pyEasyML)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=BrickShooters&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/BrickShooters)
+
 [website]: https://rodrigosdecarvalho.github.io/Website.github.io/
 [linkedin]: https://www.linkedin.com/in/rodrigo-santos-de-carvalho/
 <br>
