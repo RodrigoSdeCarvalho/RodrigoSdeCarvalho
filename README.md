@@ -2,7 +2,7 @@
 
 I love Computer Science and AI. I'm currently an AI engineer at SRS. 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
 <img align="right" width="550" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -23,7 +23,7 @@ private:
 };
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Langs and Tools:**  
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></code>
@@ -38,7 +38,7 @@ private:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
 <a href="https://github.com/RodrigoSdeCarvalho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSdeCarvalho&theme=dracula&hide_langs_below=1" />
@@ -52,7 +52,7 @@ private:
 [linkedin]: https://www.linkedin.com/in/rodrigo-santos-de-carvalho/
 <br>
 
-#### Rede Sociais!
+#### Get to know me further!
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
