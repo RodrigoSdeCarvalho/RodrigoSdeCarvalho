@@ -55,9 +55,10 @@ private:
   - [BrickShooters](https://github.com/RodrigoSdeCarvalho/BrickShooters) - A classic spaceship shooter game implemented in C++ with the Concurrency lib I developed with two friends at uni;
   - [ExtendClass](https://github.com/RodrigoSdeCarvalho/ExtendClass) - Python lib for class extension, useful for modifying a class without inheritance;
  
-<br>
- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=pyEasyML&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/pyEasyML)
- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=BrickShooters&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/BrickShooters)
+<be>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=pyEasyML&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/pyEasyML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=BrickShooters&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/BrickShooters)
 
 [website]: https://rodrigosdecarvalho.github.io/Website.github.io/
 [linkedin]: https://www.linkedin.com/in/rodrigo-santos-de-carvalho/
