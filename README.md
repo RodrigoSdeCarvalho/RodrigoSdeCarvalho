@@ -56,7 +56,7 @@ private:
   - [ExtendClass](https://github.com/RodrigoSdeCarvalho/ExtendClass) - Python lib for class extension, useful for modifying a class without inheritance;
  
 <br>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=pyEasyML&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/pyEasyML)]
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=pyEasyML&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/pyEasyML)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=BrickShooters&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/BrickShooters)]
 
 [website]: https://rodrigosdecarvalho.github.io/Website.github.io/
