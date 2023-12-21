@@ -6,17 +6,31 @@ I love Computer Science and AI. I'm currently an AI engineer at SRS.
 
 ```cpp
 class Rodrigo {
+public:
+    Rodrigo() : name("Rodrigo Santos de Carvalho")
+    {
+        this->background = new ComputerScience(UFSC);
+        this->primarySkillset = {
+            new SoftwareEngineering();
+            new AI(),
+            new ML(),
+            new ComputerVision(),
+            new BackEnd()
+        }
+        this->mainLanguages = {
+            new Python(),
+            new C++(),
+            new Rust(),
+            new C#(),
+            new Java()
+        }
+    }
+
 private:
-    std::string name = "Rodrigo Santos de Carvalho";
-    std::string background = "Computer Science";
-    std::vector<std::string> primarySkillset = {
-      "Artificial Intelligence", "Machine Learning",
-      "Software Development", "Restful APIs"
-    };
-    std::vector<std::string> mainLanguages = {
-      "Rust", "C++",
-      "C", "C#",
-      "Python", "Java"
+    std::string name;
+    std::Undergrad* background;
+    std::vector<Skill*> primarySkillset;
+    std::vector<ProgrammingLanguage*> mainLanguages;
   };
 };
 ```
