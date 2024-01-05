@@ -70,7 +70,7 @@ private:
 <be>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=pyEasyML&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/pyEasyML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=BrickShooters&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/BrickShootersII)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSdeCarvalho&repo=BrickShootersII&theme=github_dark)](https://github.com/RodrigoSdeCarvalho/BrickShootersII)
 
 [website]: https://rodrigosdecarvalho.github.io/Website.github.io/
 [linkedin]: https://www.linkedin.com/in/rodrigo-santos-de-carvalho/
