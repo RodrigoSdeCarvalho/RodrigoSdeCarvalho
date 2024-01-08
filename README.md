@@ -5,7 +5,8 @@ I love Computer Science and AI. I'm currently an AI engineer at SRS.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
 ```cpp
-class Rodrigo {
+class Rodrigo
+{
 public:
     Rodrigo() : name("Rodrigo Santos de Carvalho")
     {
