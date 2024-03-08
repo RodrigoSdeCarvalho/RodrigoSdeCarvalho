@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love Computer Science and AI. I'm currently an AI engineer at SRS. 
+I love Computer Science and AI.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
