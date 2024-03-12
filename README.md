@@ -65,7 +65,7 @@ private:
   ## Highlighted Projects
   - [pyEasyML](https://github.com/RodrigoSdeCarvalho/pyEasyML) - Python Machine Learning framework that makes developing ML applications easy;
   - [Lane Detection](https://github.com/RodrigoSdeCarvalho/LaneDetection) - Machine Learning model to segment lanes and find the center of lane in a road;
-  - [BrickShootersII](https://github.com/RodrigoSdeCarvalho/BrickShootersII) - A classic spaceship shooter game implemented in C++ with the Concurrency lib I developed with two friends at uni;
+  - [BrickShootersII](https://github.com/RodrigoSdeCarvalho/BrickShootersII) - A classic spaceship shooter game implemented in C++ with the Concurrency lib I developed with two friends;
   - [ExtendClass](https://github.com/RodrigoSdeCarvalho/ExtendClass) - Python lib for class extension, useful for modifying a class without inheritance;
  
 <be>
