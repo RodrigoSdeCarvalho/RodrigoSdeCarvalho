@@ -29,7 +29,7 @@ impl Rodrigo {
             main_languages: vec![
                 Box::new(Python {}),
                 Box::new(CPlusPlus {}),
-                Box::new(RustLang {}),
+                Box::new(Rust {}),
                 Box::new(CSharp {}),
                 Box::new(Java {}),
             ],
