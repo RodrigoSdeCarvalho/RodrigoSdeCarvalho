@@ -4,36 +4,38 @@ I love Computer Science and AI.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
-```cpp
-class Rodrigo
-{
-public:
-    Rodrigo() : name("Rodrigo Santos de Carvalho")
-    {
-        this->background = new ComputerScience(UFSC);
-        this->primarySkillset = {
-            new SoftwareEngineering();
-            new AI(),
-            new ML(),
-            new ComputerVision(),
-            new BackEnd()
-        }
-        this->mainLanguages = {
-            new Python(),
-            new C++(),
-            new Rust(),
-            new C#(),
-            new Java()
+```rust
+struct Rodrigo {
+    name: String,
+    background: ComputerScience,
+    primary_skillset: Vec<Box<dyn Skill>>,
+    main_languages: Vec<Box<dyn ProgrammingLanguage>>,
+}
+
+impl Rodrigo {
+    pub fn new() -> Rodrigo {
+        Rodrigo {
+            name: "Rodrigo Santos de Carvalho".to_string(),
+            background: ComputerScience {
+                university: "UFSC".to_string(),
+            },
+            primary_skillset: vec![
+                Box::new(SoftwareEngineering {}),
+                Box::new(AI {}),
+                Box::new(ML {}),
+                Box::new(ComputerVision {}),
+                Box::new(BackEnd {}),
+            ],
+            main_languages: vec![
+                Box::new(Python {}),
+                Box::new(CPlusPlus {}),
+                Box::new(RustLang {}),
+                Box::new(CSharp {}),
+                Box::new(Java {}),
+            ],
         }
     }
-
-private:
-    std::string name;
-    std::Undergrad* background;
-    std::vector<Skill*> primarySkillset;
-    std::vector<ProgrammingLanguage*> mainLanguages;
-  };
-};
+}
 ```
 
 ## **Langs and Tools:**  
@@ -63,6 +65,7 @@ private:
 </a>
 
   ## Highlighted Projects
+  - [DocTour.AI](https://github.com/RodrigoSdeCarvalho/DocTour.AI) - A Rust project to use LLMs to interpret and gain insights from documents;
   - [pyEasyML](https://github.com/RodrigoSdeCarvalho/pyEasyML) - Python Machine Learning framework that makes developing ML applications easy;
   - [Lane Detection](https://github.com/RodrigoSdeCarvalho/LaneDetection) - Machine Learning model to segment lanes and find the center of lane in a road;
   - [BrickShootersII](https://github.com/RodrigoSdeCarvalho/BrickShootersII) - A classic spaceship shooter game implemented in C++ with the Concurrency lib I developed with two friends;
