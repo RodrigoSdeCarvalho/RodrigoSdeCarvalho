@@ -84,5 +84,4 @@ impl Rodrigo {
 
 #### Get to know me further!
 
-🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
