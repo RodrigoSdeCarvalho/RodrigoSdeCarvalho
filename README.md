@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love Computer Science and AI.
+I love Computer Science, AI & Distributed Systems.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
