@@ -8,8 +8,8 @@ I love Computer Science and AI.
 struct Rodrigo {
     name: String,
     background: ComputerScience,
-    primary_skillset: Vec<Box<dyn Skill>>,
-    main_languages: Vec<Box<dyn ProgrammingLanguage>>,
+    primary_skillset: Vec<String>,
+    main_languages: Vec<String>,
 }
 
 impl Rodrigo {
@@ -20,18 +20,19 @@ impl Rodrigo {
                 university: "UFSC".to_string(),
             },
             primary_skillset: vec![
-                Box::new(SoftwareEngineering {}),
-                Box::new(AI {}),
-                Box::new(ML {}),
-                Box::new(ComputerVision {}),
-                Box::new(BackEnd {}),
+                "Software Engineering".to_string(),
+                "AI".to_string(),
+                "ML".to_string(),
+                "Computer Vision".to_string(),
+                "Back End".to_string(),
             ],
             main_languages: vec![
-                Box::new(Python {}),
-                Box::new(CPlusPlus {}),
-                Box::new(Rust {}),
-                Box::new(CSharp {}),
-                Box::new(Java {}),
+                "Python".to_string(),
+                "C++".to_string(),
+                "C".to_string(),
+                "Rust".to_string(),
+                "C#".to_string(),
+                "Golang".to_string(),
             ],
         }
     }
@@ -44,6 +45,7 @@ impl Rodrigo {
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
